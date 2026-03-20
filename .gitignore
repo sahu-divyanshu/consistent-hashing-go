@@ -2,7 +2,6 @@
 *.test
 *.out
 consistent-hashing
-migration_results.log
 
 # OS specific files
 .DS_Store
